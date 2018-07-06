@@ -1,2 +1,3 @@
 Its a license file
-Inserm new license changes to it
+Insert new license changes to it
+New license for a hotfix branch
